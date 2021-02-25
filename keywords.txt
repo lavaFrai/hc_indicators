@@ -1,0 +1,20 @@
+#	####################################################
+#	СИНТАКСИЧЕСКАЯ РАСКРАСКА ДЛЯ БИБИЛИОТЕКИ:
+#	hc_indicators
+#	####################################################
+#	ТИПЫ ДАННЫХ:							   (KEYWORD1)
+	Seven_segment	KEYWORD1
+#	####################################################
+#	МЕТОДЫ И ФУНКЦИИ:						   (KEYWORD2)
+	attach		KEYWORD2
+	write		KEYWORD2
+	get			KEYWORD2
+	addDot		KEYWORD2
+	removeDot	KEYWORD2
+	setShift	KEYWORD2
+	clear		KEYWORD2
+	fill		KEYWORD2
+	send		KEYWORD2
+#	####################################################
+#	КОНСТАНТЫ:								   (LITERAL1)
+	
